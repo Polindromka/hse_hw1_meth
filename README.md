@@ -52,9 +52,9 @@ Read 1 | Read 2
 ![Image](img/SRR5836475_M_Bias_Plot_1.png) | ![Image](img/SRR5836475_M_Bias_Plot_2.png)
 
 # Гистограмы распределения метелирования цитозинов по хромосоме
-## SRR3824222 (8cell)
+## SRR3824222 (epiblast)
 ![Image](img/SRR3824222_Hist.png)
-## SRR5836473 (epiblast)
+## SRR5836473 (8cell)
 ![Image](img/SRR5836473_Hist.png)
 ## SRR5836475 (ICM)
 ![Image](img/SRR5836475_Hist.png)
