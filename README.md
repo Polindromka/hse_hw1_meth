@@ -17,6 +17,14 @@ Read 1 | Read 2
 ![Image](img/BS_Seq_Per_base_sequence_content.png) | ![Image](img/РНК_Per_base_sequence_content.png) 
 
 Заметим, что в первом случае почти отсутствуют Цитозины (C), cодержание Гуанина (G), ниже чем в РНК, а Тимина (T) – выше.
+
+## Per sequence GC content
+
+Read 1 | Read 2 
+--- | --- 
+![Image](img/BS_Seq_Per_sequence_GC_content.png) | ![Image](img/РНК_Per_sequence_GC_content.png) 
+
+Заметим явное смещение нормального распределения для GC count per read.
 # Число ридов
 BS-Seq | 11347700-11367700 | 40185800-40195800 | deduplication % 
 --- | --- | --- | ---
