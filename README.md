@@ -52,6 +52,20 @@ Read 1 | Read 2
 ![Image](img/SRR5836475_M_Bias_Plot_1.png) | ![Image](img/SRR5836475_M_Bias_Plot_2.png)
 
 # Гистограмы распределения метелирования цитозинов по хромосоме
+## CODE
+```
+import pandas as pd
+from matplotlib import pyplot as plt
+path = '/content/SRR3824222/s_SRR3824222_1_bismark_bt2_pe.deduplicated.bedGraph'
+bedGraph = pd.read_csv(path,  delimiter='\t', skiprows=1, header=None)
+fig = plt.figure(figsize=(15, 5))
+plt.title('SRR3824222') 
+plt.hist(bedGraph[3], bins=100, density=True)
+plt.grid()
+plt.xlabel('Процент метилированных цитозинов')
+plt.ylabel('Частота')
+plt.show()
+```
 ## SRR3824222 (epiblast)
 ![Image](img/SRR3824222_Hist.png)
 ## SRR5836473 (8cell)
