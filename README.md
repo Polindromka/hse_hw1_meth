@@ -11,7 +11,7 @@ BS-Seq | РНК
 
 Заметим, что в РНК процент GC более чем в два раза выше, чем у BS-Seq.
 
-## Per base sequence quality
+## Per base sequence content
 Read 1 | Read 2 
 --- | --- 
 ![Image](img/BS_Seq_Per_base_sequence_content.png) | ![Image](img/РНК_Per_base_sequence_content.png) 
