@@ -53,7 +53,7 @@ Read 1 | Read 2
 
 # Гистограмы распределения метелирования цитозинов по хромосоме
 ## CODE
-```
+```python
 import pandas as pd
 from matplotlib import pyplot as plt
 path = '/content/SRR3824222/s_SRR3824222_1_bismark_bt2_pe.deduplicated.bedGraph'
