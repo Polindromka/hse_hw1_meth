@@ -73,4 +73,8 @@ plt.show()
 ## SRR5836475 (ICM)
 ![Image](img/SRR5836475_Hist.png)
 
+# Визуализация уровня метелирования и покрытия
 
+## chr11:3100030-3500030
+
+![Image](img/image_cov.png)
