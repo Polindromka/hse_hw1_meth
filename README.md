@@ -90,4 +90,4 @@ plt.show()
 
 ## chr11:3100030-3400030
 
-![Image](img/image_cov_short.png)
+![Image](img/image_cov_short.png) 
